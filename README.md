@@ -25,6 +25,9 @@ To help people plan for the future we decide to build an Android weather forecas
 * Android (API 25) .
 * Latest Android SDK Tools and build tools.
 
+### Architecture
+* MVP (Model View Presenter)
+
 ### License
 ```sh
 Copyright 2015 Ribot Ltd.
