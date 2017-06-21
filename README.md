@@ -4,18 +4,17 @@ To help people plan for the future we decide to build an Android weather forecas
 ### Libraries and tools included:
 
 * Support libraries
-
 * RecyclerViews and CardViews
-
 * [RxJava](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-
 * [Retrofit2](https://github.com/square/retrofit)
-
 * [Butterknife](https://github.com/JakeWharton/butterknife)
-
 * [Realm](https://realm.io/)
+* [Hello charts](https://github.com/lecho/hellocharts-android)
+* CheckStyle for code analysis 
 
-* [Hello Charts](https://github.com/lecho/hellocharts-android)
+```sh
+gradlew checkstyle
+```
 
 
 ### Requirements
