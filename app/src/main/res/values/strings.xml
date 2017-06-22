@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">"WeatherApp "</string>
+    <string name="amman_jo">Amman,Jo</string>
+    <string name="location">Location</string>
+    <string name="sun">sun</string>
+    <string name="sunny">Sunny</string>
+    <string name="forecast_for_5_days">Forecast</string>
+    <string name="no_internet_connection">No internet connection \n Try again</string>
+    <string name="night">Night</string>
+    <string name="day">Day</string>
+    <string name="title_activity_location_list">LocationListActivity</string>
+    <string name="edit_location">Edit Location</string>
+    <string name="locations">Locations</string>
+    <string name="dialog_remove_location_title">Remove Location</string>
+    <string name="dialog_action_continue">Continue</string>
+    <string name="remove_location">Remove Location</string>
+    <string name="cant_remove_this_location_you_must_have_at_least_one_location">Can\'t remove this location you must have at least one location</string>
+    <string name="enter_location_name">Enter location name</string>
+    <string name="save">Save</string>
+    <string name="please_enter_location_name">Please Enter Location Name</string>
+    <string name="txt_size_hello_msg">18sp</string>
+    <string name="select_or_add_correct_city_name">Select or add correct city name</string>
+    <string name="zeroTemp">0</string>
+    <string name="no_weather_data_for">No weather data for </string>
+    <string name="hourly">Hourly</string>
+</resources>

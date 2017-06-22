@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="padding_16_dp">16dp</dimen>
+    <dimen name="padding_8_dp">8dp</dimen>
+    <dimen name="txt_size_city_name">16sp</dimen>
+    <dimen name="txt_size_state">18sp</dimen>
+    <dimen name="txt_size_date">14sp</dimen>
+    <dimen name="txt_size_degree_row_forecast">24sp</dimen>
+    <dimen name="txt_size_temp">32sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
