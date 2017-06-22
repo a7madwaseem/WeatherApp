@@ -10,9 +10,11 @@ To help people plan for the future we decide to build an Android weather forecas
 * [Butterknife](https://github.com/JakeWharton/butterknife)
 * [Realm](https://realm.io/)
 * [Hello charts](https://github.com/lecho/hellocharts-android)
-* CheckStyle for code analysis 
 
+# code analysis 
 ```sh
+gradlew pmd
+gradlew findbugs
 gradlew checkstyle
 ```
 
